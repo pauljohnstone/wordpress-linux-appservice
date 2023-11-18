@@ -1,6 +1,6 @@
 #!/bin/sh
 resourceGroupName="AppService_RG"
-location="West US"
+location="Australia East"
 
 ##Create resource group
 az group create --name $resourceGroupName --location $location
